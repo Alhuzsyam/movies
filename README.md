@@ -23,7 +23,9 @@
 **Path:** http://localhost:8086/api/v1/movie/1
 
 **Update data by id**
+
 **Method:** PUT
+
 **Path :** http://localhost:8086/api/v1/movie/6
 <br>
 `
@@ -34,9 +36,6 @@
     "image":"Image.jpg"
 }
 `
-
-
-
 
 **Insert data to database**
 

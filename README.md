@@ -8,6 +8,7 @@
 4. **Note :** it will generate a database table when you run the Spring Boot application.
 5. Finally, run the Spring Boot application with the command below: `mvn spring-boot:run`
 6. **Note:** Ensure Docker is installed on your computer.
+7. to run unit test you can run `mvn test` at your terminal
 
 # API End Point
 

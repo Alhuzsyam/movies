@@ -22,6 +22,12 @@
 
 **Path:** http://localhost:8086/api/v1/movie/1
 
+**Delete data by id**
+
+**Method:** DELETE
+
+**Path:** http://localhost:8086/api/v1/movie/6
+
 **Update data by id**
 
 **Method:** PUT

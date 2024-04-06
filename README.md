@@ -22,6 +22,21 @@
 
 **Path:** http://localhost:8086/api/v1/movie/1
 
+**Update data by id**
+**Method:** PUT
+**Path :** http://localhost:8086/api/v1/movie/6
+`
+{
+    "title":"Re-Monster new",
+    "description":"Anime Series from Japan",
+    "rating":"6.9",
+    "image":"Image.jpg"
+}
+`
+
+
+
+
 **Insert data to database**
 
 **Method:** POST

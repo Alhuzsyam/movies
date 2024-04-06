@@ -1,21 +1,24 @@
 # Movies List RestApi
 
-<h1> Get started </h1>
+## Get Started
 
-1. first clone the repo in your local computer
-2. runing this command for build the docker image and container `docker-compose up -d`
-3. the last step just run the spring boot with the command below `mvn spring-boot:run`
-4. **note :** make sure your computer is installed docker
+1. First, clone the repository to your local computer.
+2. Run the following command to build the Docker image and container: 
+3. Finally, run the Spring Boot application with the command below: 
+4. **Note:** Ensure Docker is installed on your computer.
 
 # API End Point
-<b> Insert data to database </b>
-**Methode** | **Post** 
---- | ---
-Path | http://localhost:8086/api/v1/movie
 
-`{
-    "title":"Assasin Creed II",
-    "description":"Anime Series from Japan",
-    "rating":"6.9",
-    "image":"Image.jpg"
-}`
+**Insert data to database**
+
+**Method:** POST
+
+**Path:** http://localhost:8086/api/v1/movie
+
+```json
+{
+ "title": "Assasin Creed II",
+ "description": "Anime Series from Japan",
+ "rating": "6.9",
+ "image": "Image.jpg"
+}

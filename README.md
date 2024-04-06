@@ -22,3 +22,8 @@
  "rating": "6.9",
  "image": "Image.jpg"
 }
+
+**Get all data**
+**Method:** GET
+
+**Path:** http://localhost:8086/api/v1/movie

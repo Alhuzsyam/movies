@@ -11,7 +11,7 @@
 <b> Insert data to database </b>
 **Methode** | **Post** 
 --- | ---
-Path | [http://localhost:8080/api/product](http://localhost:8086/api/v1/movie)
+Path | http://localhost:8086/api/v1/movie
 
 `{
     "title":"Assasin Creed II",

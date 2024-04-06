@@ -15,6 +15,13 @@
 
 **Path:** http://localhost:8086/api/v1/movie
 
+
+**Get data by id**
+
+**Method:** GET
+
+**Path:** http://localhost:8086/api/v1/movie/1
+
 **Insert data to database**
 
 **Method:** POST
@@ -28,5 +35,3 @@
  "rating": "6.9",
  "image": "Image.jpg"
 }
-
-

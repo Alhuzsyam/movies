@@ -9,6 +9,12 @@
 
 # API End Point
 
+**Get all data from database**
+
+**Method:** GET
+
+**Path:** http://localhost:8086/api/v1/movie
+
 **Insert data to database**
 
 **Method:** POST

@@ -4,8 +4,10 @@
 
 1. First, clone the repository to your local computer.
 2. Run the following command to build the Docker image and container:  `docker-compose up -d`
-3. Finally, run the Spring Boot application with the command below: `mvn spring-boot:run`
-4. **Note:** Ensure Docker is installed on your computer.
+3. **Note :** This will start two containers, MySQL and phpMyAdmin.
+4. **Note :** it will generate a database table when you run the Spring Boot application.
+5. Finally, run the Spring Boot application with the command below: `mvn spring-boot:run`
+6. **Note:** Ensure Docker is installed on your computer.
 
 # API End Point
 

@@ -7,7 +7,7 @@ after clone the repository, install mysql & phpmyadmin on your laptop, you can u
 if you use docker, just running the command below`
 
 `docker-compose up -d`
-it will be build the docker image
+it will be build the docker image and container
 
 the last step just run the spring boot with the command below
 

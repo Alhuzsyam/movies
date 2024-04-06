@@ -25,6 +25,7 @@
 **Update data by id**
 **Method:** PUT
 **Path :** http://localhost:8086/api/v1/movie/6
+<br>
 `
 {
     "title":"Re-Monster new",
@@ -42,11 +43,10 @@
 **Method:** POST
 
 **Path:** http://localhost:8086/api/v1/movie
-
-```json
-{
+<br>
+`{
  "title": "Assasin Creed II",
  "description": "Anime Series from Japan",
  "rating": "6.9",
  "image": "Image.jpg"
-}
+}`
